@@ -1,6 +1,6 @@
 let a=10;
 let b=10;
-function func()
+let func= ()=>
 {
     return a+b;
 }
